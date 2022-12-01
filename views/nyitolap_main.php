@@ -1,6 +1,6 @@
 <?php
 
-<h2>Magyar szélerőművek</h2>
+<h1>Magyar szélerőművek</h1>
 <div class="cikk">
 <p>
 
