@@ -1,3 +1,1 @@
-<h2>
-    Szélerőművek
-</h2>
+<h1><br><?= $viewData['uzenet']?><br></h1>
